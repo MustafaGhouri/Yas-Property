@@ -176,13 +176,13 @@
       <div class="d-flex gap-2 mb-4 mt-5 w-100 d-none">
         <div class=" ">
           <label class="yashwale-btn" for="rent-yas">Rent
-            <input type="radio" name="yasproptype" class="d-none" checked id="rent-yas" value="Rent">
+            <input type="radio" name="yasproptype" class="d-none"  id="rent-yas" value="Rent">
           </label>
         </div>
         <div class=" ">
 
           <label class="yashwale-btn" for="buy-yas">Buy
-            <input type="radio" name="yasproptype" class="d-none" id="buy-yas" value="Buy">
+            <input type="radio" name="yasproptype" class="d-none" checked id="buy-yas" value="Buy">
           </label>
         </div>
       </div>
